@@ -1,6 +1,8 @@
 
 # Medipush Android application
 
+<center><img src="https://github.com/Medipush/Medipush/blob/master/medipush_icon.png?raw=true" style="width:650px, height:auto"></center>
+
 ## SDK version
 
 - minSdkVersion 16
